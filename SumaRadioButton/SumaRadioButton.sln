@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SumaRadioButton", "SumaRadioButton\", "{C8C4218F-30E3-4DD9-B812-249C1BAACDE9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58963"
+		Debug.AspNetCompiler.PhysicalPath = "SumaRadioButton\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58963\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58963"
+		Release.AspNetCompiler.PhysicalPath = "SumaRadioButton\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58963\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58963"
+		SlnRelativePath = "SumaRadioButton\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C4218F-30E3-4DD9-B812-249C1BAACDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C4218F-30E3-4DD9-B812-249C1BAACDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {497FF24B-66A2-45B0-9F07-613A533DFA08}
+	EndGlobalSection
+EndGlobal
